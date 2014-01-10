@@ -9,7 +9,7 @@ proxies or other networking systems are interfering with connections to Appceler
 To install the script:
 
 ```
-npm install -g git://github.com/appcelerator/titanium-connection-test.git
+npm install -g git://github.com/sgtcoolguy/titanium-connection-test.git
 ```
 
 You may need to run this command as sudo on POSIX systems
